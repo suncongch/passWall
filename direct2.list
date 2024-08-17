@@ -1,0 +1,3 @@
+# Netflix
+DOMAIN-SUFFIX,fast.com
+IP-CIDR,208.75.76.0/22,no-resolve
